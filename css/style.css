@@ -127,7 +127,7 @@
 .footer {
   height: 50px;
   /*background-color: var(--main-bg-color); /*old footer background color*/*/
-  background-color:#3cb371;
+  background-color: MediumSeaGreen;
   display: flex;
   align-items: center;
   justify-content: center;
