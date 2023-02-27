@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/utils.css">
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/blogpost.css">
+    <link rel="stylesheet" href="css/mobile.css">
+    <title>Living in fear - A student of color's first year in grad school</title>
+</head>
+<body>
+    <nav class="navigation max-width-1 m-auto">
+        <div class="nav-left">
+            <a href="index.html">
+                <span><img src="img/logo.svg" width="94px" alt="loading..."></span>
+            </a>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="blogpost.html">Blog</a></li>
+                <li><a href="contact.html">Contact</a></li>
+            </ul>
+        </div>
+        <div class="nav-right">
+            <form action="search.html" method="get">
+                <input class="form-input" type="text" name="query" placeholder="Article Search">
+                <button class="btn">Search</button>
+            </form>
+
+        </div>
+
+    </nav>
+    <div class="max-width-1 m-auto">
+        <hr>
+    </div>
+    <div class="post-img">
+        <img src="img/3.jpg" alt="">
+    </div>
+    <div class="m-auto blog-post-content max-width-2 m-auto my-2">
+        <h1 class="font1">Living in fear: A student of color's first year in grad school</h1>
+        <div class="blogpost-meta">
+            <div class="author-info">
+                <div>27 February 2023</div>
+            </div>
+            <div class="social">
+                <svg width="29" height="29" class="hk"><path d="M22.05 7.54a4.47 4.47 0 0 0-3.3-1.46 4.53 4.53 0 0 0-4.53 4.53c0 .35.04.7.08 1.05A12.9 12.9 0 0 1 5 6.89a5.1 5.1 0 0 0-.65 2.26c.03 1.6.83 2.99 2.02 3.79a4.3 4.3 0 0 1-2.02-.57v.08a4.55 4.55 0 0 0 3.63 4.44c-.4.08-.8.13-1.21.16l-.81-.08a4.54 4.54 0 0 0 4.2 3.15 9.56 9.56 0 0 1-5.66 1.94l-1.05-.08c2 1.27 4.38 2.02 6.94 2.02 8.3 0 12.86-6.9 12.84-12.85.02-.24 0-.43 0-.65a8.68 8.68 0 0 0 2.26-2.34c-.82.38-1.7.62-2.6.72a4.37 4.37 0 0 0 1.95-2.51c-.84.53-1.81.9-2.83 1.13z"></path></svg>
+
+            </div>
+        </div>
+         <p class="font1">My origins as an ecologist may be like many others, but my experience couldn’t be more different. I have always loved being outside, and after becoming enchanted by the magic of birds, I decided to spend my life studying and protecting them. I never thought it’d be easy, but I never could’ve imagined it’d be this hard. I’m in my second year of my grad program now, and I feel like I’ve spent my entire time here living in fear.</p>
+         <br>
+         <p class="font1">Microaggressions, macroaggressions, aggressions, racial abuse. Whatever you like to call them, experiencing one is too much, and experiencing a steady stream of them over the course of a lifetime is crippling. The number of attacks on my identity ebbs and flows, but the fear of being attacked stays constant.</p>
+         <br>   
+         <p class="font1">Not a day goes by where I’m not crushed by the weight of racial anxiety. I can’t focus on ecology when I’m constantly worrying about the next time someone will judge me, stereotype me, belittle my culture, ignore my contributions, or worse – and this isn’t even considering the time I lose breaking down about the attacks of the past.</p>
+         <br>  
+         <p class="font1">It feels that all I can do is run and hide. I isolate myself, I avoid interacting with people, and I try to not say anything about my culture as to not draw attention to my difference – but it’s not working. The running, the fear, the facades that are all part of my daily routine are draining the life out of me. I can run all I want, but I won’t be able to rest as long as I’m trapped in a coliseum of racism.</p>
+         <br>    
+         <p class="font1">The field of ecology is white. Ever since I finished my classes, I have been the only person of color in almost every professional space I’ve entered. Too often, I’m the sole target, I’m the sole advocate for people of color, and I’m the whites’ sole trophy of diversity. In these crowded meeting rooms, I’m all alone. I Know that if and when I’m attacked, I will likely be the only one to know. Despite how violent and excruciating the pain is, no one else will notice.</p>
+         <br>    
+         <p class="font1">So what is there to do now? I wish I knew. All I know now is that the only spaces where I feel safe are those occupied by my community. In these spaces created by people of color, for people of color, I know that I won’t be attacked. I know that I will be protected, understood, and most importantly, accepted. My community of color is my life support, and the power of dedicated spaces for this community I believe is massively underestimated by those who aren’t living in constant fear of discrimination.</p>
+         <br>    
+         <p class="font1">The time of simply acknowledging the importance of “DEI” is over. Academic institutions have finally made the step of admitting students of color – but they are admitting us into a space where we are belittled, attacked, and exploited. It’s time for academia to put for the money and resources that are required to create equitable conditions.</p>
+         <br>    
+         <p class="font1">We need safe, physical spaces reserved for students of color. We need funding to host events that are intended to bring joy to students of color. We need compensation for our unique ability to recognize and resolve equity issues.</p>
+
+    </div>
+
+    <!--[ADD MORE SUGGESTED ARTICLES HERE]-->
+    <div class="max-width-1 m-auto"><hr></div>
+    <div class="home-articles max-width-1 m-auto font2">
+        <h2>People who read this also read</h2>
+        <div class="row">
+
+       
+        <div class="home-article more-post">
+            <div class="home-article-img">
+                <img src="img/4.png" alt="article">
+            </div>
+            <div class="home-article-content font1 center">
+                <a href="/blogpost.html"><h3>Learn more about Machine Learning techniques in India by joining this channel</h3></a>
+                
+                <div>Author Name</div>
+                <span>07 January | 6 min read</span>
+            </div>
+        </div>
+        <div class="home-article more-post">
+            <div class="home-article-img">
+                <img src="img/1.png" alt="article">
+            </div>
+            <div class="home-article-content font1 center">
+                <a href="/blogpost.html"><h3>Learn more about Machine Learning techniques in India by joining this channel</h3></a>
+                
+                <div>Author Name</div>
+                <span>07 January | 6 min read</span>
+            </div>
+        </div>
+        <div class="home-article more-post">
+            <div class="home-article-img">
+                <img src="img/2.png" alt="article">
+            </div>
+            <div class="home-article-content font1 center">
+                <a href="/blogpost.html"><h3>Learn more about Machine Learning techniques in India by joining this channel</h3></a>
+                
+                <div>Author Name</div>
+                <span>07 January | 6 min read</span>
+            </div>
+        </div>
+        
+    </div>
+    </div>
+
+    <div class="footer">
+        <p>Copyright &copy; iBlog.com | All Rights Reserved</p>
+   
+    </div>
+</body>
+</html>
