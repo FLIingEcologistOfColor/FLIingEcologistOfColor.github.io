@@ -126,12 +126,11 @@
 /* .home-articles{} */
 .footer {
   height: 50px;
-  /*background-color: var(--main-bg-color); /*old footer background color*/*/
-  background-color: rgb(60, 179, 113);
+  background-color: black);
   display: flex;
   align-items: center;
   justify-content: center;
-  color: black;
+  color: white;
   flex-direction: column;
 }
 
