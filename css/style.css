@@ -56,11 +56,11 @@
 
 .content::after {
   content: "";
-  background-image: url("../img/11.svg");
+  background-image: url("../img/11.png");
   position: absolute;
   width: 100%;
   height: inherit;
-  opacity: 0.15;
+  /*opacity: 0.15;*/
   border-radius: 12px;
 }
 
