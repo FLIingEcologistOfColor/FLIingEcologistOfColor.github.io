@@ -126,6 +126,7 @@
 /* .home-articles{} */
 .footer {
   height: 50px;
+  font-family: var(--font1);
   background-color: MediumSeaGreen;
   display: flex;
   align-items: center;
